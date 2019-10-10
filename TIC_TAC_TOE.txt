@@ -105,7 +105,7 @@ def display_board(board):
 print("Welcome to Tic Tac Toe")
 
 while True:
-    #PLAY THE GAME
+    #PLAY THE GAME NOW
 
     ##SET EVERYTHING UP(BOARD,WHI'S FIRST, CHOOSE MARKERS
     the_board = [' ']*10
